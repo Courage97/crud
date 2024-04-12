@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Oyewole Barnabas",
+      "email": "oyewolebarnabas@gmail.com",
+      "phone": "08062794852"
+    },
+    {
+      "id": "2",
+      "name": "John Jeremiah",
+      "email": "john001@gmail.com",
+      "phone": "000 0000 0000"
+    },
+    {
+      "id": "3",
+      "name": "Oyewole Barnabas",
+      "email": "oyewole97@gmail.com",
+      "phone": "000 0000 0000"
+    },
+    {
+      "id": "4",
+      "name": "BARNABAS OYEWOLE",
+      "email": "oyewolebarnabas@gmail.com",
+      "phone": "08062794852"
+    },
+    {
+      "id": "5",
+      "name": "BARNABAS OYEWOLE",
+      "email": "pelumi",
+      "phone": "08062794852"
+    },
+    {
+      "id": "6",
+      "name": "glory",
+      "email": "oyewolebarnabas907@gmail.com",
+      "phone": "09061273901"
+    }
+  ]
+}
